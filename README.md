@@ -14,4 +14,4 @@
 - [ ] Make appointment
 - [ ] Video call (online consult)
 - [ ] Online pharmacy shop (e-commerce)
-- [ ] Authentication (?)
+- [ ] Feedback and rating system
