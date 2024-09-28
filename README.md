@@ -11,7 +11,7 @@
 
 ## Features to be implemented
 
-- ☑️ Make appointment
-- ☑️ Video call (online consult)
-- ☑️ Online pharmacy shop (e-commerce)
-- ☑️ Feedback and rating system
+- [ ] Make appointment
+- [ ] Video call (online consult)
+- [ ] Online pharmacy shop (e-commerce)
+- [ ] Feedback and rating system
