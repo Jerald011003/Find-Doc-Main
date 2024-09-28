@@ -1,6 +1,6 @@
-# Find Doc
+![banner](https://i.imgur.com/VfHuNA4.png)
 
-**Members**
+## Members
 
 1. Bagsic, Jerald Francis Santillan - [@Jerald011003](https://gitlab.com/Jerald011003)
 2. Cano, Danise Emerlyn Bingcang -[@Ruririin](https://gitlab.com/Ruririin)
@@ -9,7 +9,7 @@
 5. Pineda, Alaica Gonzales - [@Alaics](https://gitlab.com/Alaics)
 6. Canlas, Rafael Luis Lingat
 
-**Features to be implemented**
+## Features to be implemented**
 
 - [ ] Make appointment
 - [ ] Video call (online consult)
