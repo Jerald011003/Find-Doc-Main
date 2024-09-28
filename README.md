@@ -1,4 +1,4 @@
-![banner](https://i.imgur.com/CtjsAEY.png)
+![banner](https://i.imgur.com/L40ZOYm.png)
 
 ## Members
 
