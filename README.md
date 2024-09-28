@@ -1,5 +1,7 @@
 # Find Doc
 
+**Overview**
+
 A healthcare platform designed to streamline the patient-doctor interaction. It offers a convenient way for users to make appointments with healthcare professionals, conduct virtual consultations via video calls, and access a variety of healthcare products through an online pharmacy.
 
 **Members**
