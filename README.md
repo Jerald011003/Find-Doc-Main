@@ -13,7 +13,7 @@ A healthcare platform designed to streamline the patient-doctor interaction. It 
 
 ## Features to be implemented
 
-- [ ] Make appointment
-- [ ] Video call (online consult)
-- [ ] Online pharmacy shop (e-commerce)
-- [ ] Feedback and rating system
+- [ ] **Make appointment** (September 30 - October 7)
+- [ ] **Video call (online consult)** (October 7 - October 14)
+- [ ] **Online pharmacy shop (e-commerce)** (October 14 - October 21)
+- [ ] **Feedback and rating system** (October 21 - October 28)
