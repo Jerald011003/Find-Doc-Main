@@ -7,9 +7,9 @@ A healthcare platform designed to streamline the patient-doctor interaction. It 
 1. Bagsic, Jerald Francis Santillan - [@Jerald011003](https://gitlab.com/Jerald011003)
 2. Cano, Danise Emerlyn Bingcang -[@Ruririin](https://gitlab.com/Ruririin)
 3.  Generoso, Mark Railey Yutuc - [@UnlimitedAvailableUsername](https://gitlab.com/UnlimitedAvailableUsername)
-4. Perez, Julianna Bondoc
+4. Perez, Julianna Bondoc - [@Pearzzz](https://gitlab.com/Pearzzz)
 5. Pineda, Alaica Gonzales - [@Alaics](https://gitlab.com/Alaics)
-6. Canlas, Rafael Luis Lingat
+6. Canlas, Rafael Luis Lingat - [@Chighati](https://gitlab.com/Chighati)
 
 ## Features to be implemented
 
