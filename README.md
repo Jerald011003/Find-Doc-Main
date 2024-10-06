@@ -8,8 +8,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory for your React app, you can run the following command to start the frontend:
 
-```bash
-npm start
+    ```bash
+    npm start
 
 This command runs the app in development mode.
 Open http://localhost:3000 in your web browser to view it.
