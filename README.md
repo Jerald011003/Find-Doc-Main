@@ -8,7 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 1. **Start the React Application**
 
-   In the project directory for your React app, run the following command to start the frontend:
+   In the project directory for React app, run the following command to start the frontend:
 
    ```bash
    npm start
@@ -19,10 +19,10 @@ The page will reload automatically if you make any edits.
 You will see any lint errors in the console.
 Available Scripts
 
-### Frontend Setup (Django)
+### Backend Setup (Django)
 2. **Start the Django Application**
 
-   In the project directory for your Django app, run the following command to start the backend:
+   In the project directory for Django app, run the following command to start the backend:
 
    ```bash
    pyton manage.py runserver
