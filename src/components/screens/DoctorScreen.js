@@ -125,35 +125,7 @@ function DoctorScreen({ history }) {
               </Col>
             </Row>
 
-            <Row>
-              <Col md={6}>
-                <h4 className="mt-3">Reviews</h4>
-
-                {(!reviews || reviews.length === 0) && (
-                  <Message variant="info">No Reviews</Message>
-                )}
-
-                {loadingReviews ? (
-                  <Loader />
-                ) : errorReviews ? (
-                  <Message variant="danger">{errorReviews}</Message>
-                ) : (
-                  <ListGroup variant="flush">
-                    {reviews.map((review) => (
-                     <ListGroup.Item key={review._id}>
-                     <strong>{review.name}</strong>
-                     <Rating value={review.rating} color="f8e825" />
-                     
-                     <p>{review.createdAt ? review.createdAt.substring(0, 10) : "Date not available"}</p>
-                     
-                     <p>{review.comment}</p>
-                   </ListGroup.Item>
-                   
-                    ))}
-                  </ListGroup>
-                )}
-              </Col>
-            </Row>
+           
 
           </>
         )
