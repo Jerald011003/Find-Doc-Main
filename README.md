@@ -10,3 +10,8 @@ In the project directory for your React app, you can run the following command t
 
 ```bash
 npm start
+
+This command runs the app in development mode.
+Open http://localhost:3000 in your web browser to view it.
+The page will reload automatically if you make any edits.
+You will see any lint errors in the console.
