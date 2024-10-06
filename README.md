@@ -1,4 +1,4 @@
-# Project Title
+# Find Doc
 
 ## Getting Started with Create React App and Django Backend
 
@@ -19,8 +19,10 @@ The page will reload automatically if you make any edits.
 You will see any lint errors in the console.
 Available Scripts
 
-2. In the React project directory, you can run:
+### Frontend Setup (Django)
+2. **Start the Django Application**
 
-npm test: Launches the test runner in interactive watch mode.
-npm run build: Builds the app for production to the build folder. Optimizes the build for the best performance.
-npm run eject: Note that this is a one-way operation! It allows you to customize the build tool and configuration choices.
+   In the project directory for your Django app, run the following command to start the backend:
+
+   ```bash
+   pyton manage.py runserver
