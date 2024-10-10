@@ -1,8 +1,6 @@
 # Find Doc
 
-## Getting Started with Create React App and Django Backend
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) for the frontend and uses Django for the backend.
+## Getting Started with React App and Django
 
 ### Frontend Setup (React)
 
