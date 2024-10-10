@@ -84,6 +84,7 @@ const AppointmentsScreen = () => {
                         {item.status}
                       </span>
                     </p>
+                    {/* Create Payment Logic Here */}
                     {item.status === 'Approved' && (
                       <>
                         <Button variant="primary" onClick={() => startVideoCall(item)} style={{ marginRight: '10px' }}>
